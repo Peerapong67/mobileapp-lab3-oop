@@ -1,3 +1,4 @@
+# พีรพงศ์ ปัญญาสัน 67543210042-7
 # Lab 03: Product Management System (ระบบจัดการสินค้า)
 
 โปรแกรมจำลองระบบจัดการสินค้าที่พัฒนาด้วยภาษา Dart โดยประยุกต์ใช้หลักการ Object-Oriented Programming (OOP) ได้แก่ Encapsulation, Inheritance และ Polymorphism
