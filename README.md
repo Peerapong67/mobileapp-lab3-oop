@@ -162,3 +162,6 @@ class FoodProduct extends Product {
   }
 }
 ```
+## ภาพประกอบ
+<img width="727" height="936" alt="image" src="https://github.com/user-attachments/assets/b6113bb1-55d5-45d1-988c-1b3214578710" />
+
